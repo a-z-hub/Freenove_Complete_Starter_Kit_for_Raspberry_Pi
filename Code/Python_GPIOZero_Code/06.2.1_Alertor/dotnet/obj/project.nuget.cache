@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETvQ5GpSD54=",
+  "dgSpecHash": "d9hlgTqNCtw=",
   "success": true,
-  "projectFilePath": "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
+  "projectFilePath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
   "expectedPackageFiles": [
     "/home/piuser/.nuget/packages/iot.device.bindings/4.0.1/iot.device.bindings.4.0.1.nupkg.sha512",
     "/home/piuser/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

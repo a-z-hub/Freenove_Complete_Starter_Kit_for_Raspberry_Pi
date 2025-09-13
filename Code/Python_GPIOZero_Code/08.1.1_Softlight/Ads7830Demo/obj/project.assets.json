@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "System.Device.Gpio/4.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.Device.Gpio.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Device.Gpio.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Device.Gpio/4.0.1": {
+      "sha512": "0kLetV4AsPCDC7pDnEs20fh/GJO8CITubSmVmiuRA5bIATUuYbo7YSYbw4daEaMOPvUX9zk65GcfHmMwGWWFBg==",
+      "type": "package",
+      "path": "system.device.gpio/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/System.Device.Gpio.dll",
+        "lib/net8.0/System.Device.Gpio.xml",
+        "system.device.gpio.4.0.1.nupkg.sha512",
+        "system.device.gpio.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "System.Device.Gpio >= 4.0.1"
+    ]
+  },
+  "packageFolders": {
+    "/home/piuser/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/08.1.1_Softlight/Ads7830Demo/Ads7830Demo.csproj",
+      "projectName": "Ads7830Demo",
+      "projectPath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/08.1.1_Softlight/Ads7830Demo/Ads7830Demo.csproj",
+      "packagesPath": "/home/piuser/.nuget/packages/",
+      "outputPath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/08.1.1_Softlight/Ads7830Demo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/piuser/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "System.Device.Gpio": {
+            "target": "Package",
+            "version": "[4.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/piuser/.dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

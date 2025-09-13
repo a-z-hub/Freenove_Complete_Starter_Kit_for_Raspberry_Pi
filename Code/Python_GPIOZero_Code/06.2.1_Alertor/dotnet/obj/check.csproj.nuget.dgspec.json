@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj": {}
+    "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj": {}
   },
   "projects": {
-    "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj": {
+    "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
+        "projectUniqueName": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
         "projectName": "check",
-        "projectPath": "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
+        "projectPath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/check.csproj",
         "packagesPath": "/home/piuser/.nuget/packages/",
-        "outputPath": "/home/piuser/Desktop/Freenove_Kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/obj/",
+        "outputPath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/06.2.1_Alertor/dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/piuser/.nuget/NuGet/NuGet.Config"
@@ -69,6 +69,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/home/piuser/.dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm64": {
+          "#import": []
         }
       }
     }

@@ -26,7 +26,7 @@ def loop():
     while True:
         value = adc.analogRead(0)    # read the ADC value of channel 0
         voltage = value / 255.0 * 3.3  # calculate the voltage value
-        print ('ADC Value : %d, Voltage : %.2f'%(value,voltage))
+        # print ('ADC Value : %d, Voltage : %.2f'%(value,voltage))
         time.sleep(0.1)
 
 def destroy():

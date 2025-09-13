@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZTmlJ1xFug=",
+  "success": true,
+  "projectFilePath": "/home/piuser/Desktop/freenove_kit/Code/Python_GPIOZero_Code/08.1.1_Softlight/Ads7830Demo/Ads7830Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/piuser/.nuget/packages/system.device.gpio/4.0.1/system.device.gpio.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
